@@ -20,7 +20,7 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>{heroData.name}</strong>. Passionate JavaScript Developer with a year of experience specializing in ReactJS and NodeJS. Proficient in HTML, CSS, JS, MongoDB, PHP, SQL, and Git. Currently seeking opportunities in ReactJS or MERN stack development where I can leverage my skills to build innovative solutions. Let’s connect and create something amazing together!.
+            Hello! My name is <strong>{heroData.name}</strong>. {heroData.msg}
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
