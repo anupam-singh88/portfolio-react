@@ -19,7 +19,7 @@ export const ProjectList = [
     },
     {
         img: "images/blog-master.png",
-        title: "Blog-Master NodeJs Project",
+        title: "Blog-Master NodeJs",
         description: "Blog-Master is a comprehensive blogging application built with Node.js, EJS, and MongoDB.",
         tech_stack: "Nodejs, EJS, MongoDB",
         github_url: "https://github.com/anupam-singh88/blog_master",
@@ -51,7 +51,7 @@ export const ProjectList = [
     },
     {
         img: "images/git-proj.png",
-        title: "GitHub Profile using JavaScript",
+        title: "GitHub Profile Viewer",
         description: " The application uses the GitHub API to dynamically fetch user details  and shows all the followers and repositories of the user.",
         tech_stack: "HTML, CSS, JAVASCRIPT",
         github_url: "https://github.com/anupam-singh88/github_profiles",
@@ -59,7 +59,7 @@ export const ProjectList = [
     },
     {
         img: "images/movie-proj.png",
-        title: "Movie Web App using JavaScript",
+        title: "Movie App JavaScript",
         description: "The application uses the MovieDB API to dynamically fetch all the movies as entered in the input box and shows all the movies as searched.",
         tech_stack: "HTML, CSS, JAVASCRIPT",
         github_url: "https://github.com/anupam-singh88/movie_app",
