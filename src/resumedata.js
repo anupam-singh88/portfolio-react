@@ -118,9 +118,9 @@ export const stackList = [
 
 
 export const socialLinks = {
-    linkedIn: "https://www.linkedin.com/in/anupam-singh-a88787238/",
+    linkedIn: "https://www.linkedin.com/in/anupam-singh88/",
     github: "https://github.com/anupam-singh88",
-    twitter: "https://twitter.com/anupam_singh_88",
+    twitter: "https://twitter.com/anupam_singh88",
     emailId: 'anupamsingh2389@gmail.com',
     whatsapp: '7065169819'
 }
