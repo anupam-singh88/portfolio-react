@@ -37,6 +37,14 @@ export const ProjectList = [
         demo_url: "https://mern-todo-app-4e58b.web.app/",
     },
     {
+        img: "images/newsmaster.png",
+        title: "NewsMaster ReactJS",
+        description: "NewsMaster is a real-time news website built with React.js. It fetches data from the News API.",
+        tech_stack: "ReactJs, HTML/CSS, BOOTSTRAP",
+        github_url: "https://github.com/anupam-singh88/newsmaster",
+        demo_url: "https://drive.google.com/file/d/1EfXpVOvqacYTp5QmblNHQEIMiz1nI--s/view?usp=sharing",
+    },
+    {
         img: "images/registration-form-node.png",
         title: "Form in Node.js & MongoDB",
         description: "This is a registration form application built with Node.js, Express, and MongoDB with all validations.",
