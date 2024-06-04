@@ -6,7 +6,7 @@ export const heroData = {
     // Same substring at the start will only be typed out once, initially
     // wait 1s before replacing "next value" 
     autoText: ['I am a MERN stack developer', 1000, 'I develop website using ReactJS,Nodejs', 1000, 'I am a ReactJS Developer', 1000, 'I am a NodeJS Developer', 1000],
-    profileImgPath: "/images/profile.jpg",
+    profileImgPath: "/images/profile.png",
     msg: 'Passionate JavaScript Developer with a year of experience specializing in ReactJS and NodeJS. Proficient in HTML, CSS, JS, MongoDB, PHP, SQL, and Git. Currently seeking opportunities in ReactJS or MERN stack development where I can leverage my skills to build innovative solutions. Let’s connect and create something amazing together!.'
 }
 
