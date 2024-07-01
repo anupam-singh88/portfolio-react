@@ -22,13 +22,11 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installing and Running
 
-1. Clone the repo git clone
-
-2. Install NPM packages
+1. Install NPM packages
    ```
    npm install
    ```
-3. Start the server
+2. Start the server
    ```
    npm start
    ```
