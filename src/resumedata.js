@@ -7,7 +7,7 @@ export const heroData = {
     // wait 1s before replacing "next value" 
     autoText: ['I am a MERN stack developer', 1000, 'I develop website using ReactJS,Nodejs', 1000, 'I am a ReactJS Developer', 1000, 'I am a NodeJS Developer', 1000],
     profileImgPath: "/images/profile.png",
-    msg: 'Passionate JavaScript Developer with a year of experience specializing in ReactJS and NodeJS. Proficient in HTML, CSS, JS, MongoDB, PHP, SQL, and Git. Currently seeking opportunities in ReactJS or MERN stack development where I can leverage my skills to build innovative solutions. Let’s connect and create something amazing together!.'
+    msg: 'Full-Stack Developer with 2 years of experience in building robust web applications using the MERN stack, proficient in ReactJS, NodeJS, and backend development. Skilled in TypeScript, NextJS, NestJS, ExpressJS, Tailwind CSS, and Redux for front-end and server-side development. Expertise in MongoDB, SQL, PostgreSQL, and Prisma for database management, and experienced with tools like Git, Docker, and Firebase for efficient project deployment and collaboration.'
 }
 
 // --------------------------------------- Project List
