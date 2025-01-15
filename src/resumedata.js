@@ -7,11 +7,27 @@ export const heroData = {
     // wait 1s before replacing "next value" 
     autoText: ['I am a MERN stack developer', 1000, 'I develop website using ReactJS,Nodejs', 1000, 'I am a ReactJS Developer', 1000, 'I am a NodeJS Developer', 1000],
     profileImgPath: "/images/profile.png",
-    msg: 'Full-Stack Developer with 2 years of experience in building robust web applications using the MERN stack, proficient in ReactJS, NodeJS, and backend development. Skilled in TypeScript, NextJS, NestJS, ExpressJS, Tailwind CSS, and Redux for front-end and server-side development. Expertise in MongoDB, SQL, PostgreSQL, and Prisma for database management, and experienced with tools like Git, Docker, and Firebase for efficient project deployment and collaboration.'
+    msg: "Hello! I'm Anupam Singh, a Full-Stack Developer with 3 years of experience building dynamic and scalable web applications. I specialize in backend development using Node.js, NestJS, Express.js, and RESTful API design, with expertise in MongoDB, PostgreSQL, and MySQL.I have extensive experience integrating payment systems like PayPal and Paddle, optimizing performance through Redis and RabbitMQ, and leveraging Docker for deployment. My frontend skills include ReactJS, NextJS, and modern UI frameworks like Ant Design and Shadcn UI. I excel at creating secure, high-performance systems, ensuring seamless user experiences and robust database solutions."
 }
 
 // --------------------------------------- Project List
 export const ProjectList = [
+    {
+        img: "images/next-jobportal.png",
+        title: "NEXTJS - Job Portal",
+        description: "This project is a comprehensive Job Portal built using Next.js. It facilitates seamless interaction between candidates and recruiters, providing features for job applications, candidate management, and social engagement.",
+        tech_stack: "NEXTJS, Arcjet,MongoDB",
+        github_url: "https://github.com/anupam-singh88/nextjs-job-portal-clerkjs",
+        demo_url: "https://nextjs-job-portal-clerkjs.vercel.app/",
+    },
+    {
+        img: "images/next-blog.png",
+        title: "Medium Clone - NextJS",
+        description: "This project is a Medium clone built using Next.js. It provides features for reading, writing, and sharing articles, as well as following other users and recommending articles.",
+        tech_stack: "NEXTJS, Clertk, MongoDB",
+        github_url: "https://github.com/anupam-singh88/nextjs-arcjet-blog-arcjet",
+        demo_url: "https://nextjs-arcjet-blog-arcjet.vercel.app/",
+    },
     {
         img: "images/meri_dukan_pic.png",
         title: "Meri Dukan React Ecommerce",
