@@ -17,6 +17,7 @@ function ProjectCard() {
             backgroundSize: "100% 100%",
             backgroundPosition: "center",
             width: "100%",
+            height: window.innerWidth < 980 ? "25vh" : "100%",
           }}>
             {/* <img src={list.img} alt={list.name} /> */}
           </CardLeft>
